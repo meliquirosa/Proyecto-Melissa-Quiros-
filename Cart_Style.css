@@ -1,0 +1,131 @@
+ 
+.completo{
+
+    display: flex;
+}
+.Cuadro{
+    display: flex;
+    margin-right: 30%;
+    width: 40em;
+}
+
+.C1{
+
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    width: 7em;
+    height: 4em;
+    text-align: center;
+}
+
+.CC1{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    width: 4em;
+    height: 4em;
+    text-align: center;
+
+}
+
+.C11{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    width: 12em;
+    height: 4em;
+    text-align: center;
+}
+
+.C7{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    width: 40em;
+    display: flex;
+}
+ 
+ .boton2{
+    margin-top: 1em;
+    color: white;
+    background-color: rgb(112, 112, 255);
+ }
+
+ .boton3{
+     
+    color: white;
+    background-color: rgb(112, 112, 255);
+    width: 9em;
+    height: 2.5em;
+    margin-top: 1.5em;
+    margin-right: 1%;
+     
+     
+ }
+
+ .boton4{
+    color: white;
+    background-color: rgb(112, 112, 255);
+    width: 9em;
+    height: 2.5em;
+    margin-top: 1.5em;
+    margin-right: 1%;
+ }
+
+ .t{
+    margin-top: 1em;
+    width: 3em;
+    height: 2em;
+   
+ }
+ .tt{
+  
+    width: 12em;
+    height: 2.5em;
+    margin-top: 1.5em;
+    margin-right: 1%;
+
+ }
+
+
+
+
+
+
+ .cuadro11{
+
+    display: flex;
+    width: 40em;
+}
+
+.img{
+
+     height: 10em;
+     width: 10em;
+     border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+}
+
+
+.imn{
+
+    height: 3.5em;
+    width: 6em;
+
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+
+    text-align: center;
+
+
+
+}

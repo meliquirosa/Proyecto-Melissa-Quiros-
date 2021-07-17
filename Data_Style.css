@@ -1,0 +1,80 @@
+.return{
+
+        background-color: rgb(235, 230, 230);
+        display: flex;
+        height: 5%;
+        width: 35em;
+}
+
+.cou{
+    background-color: rgb(235, 230, 230);
+    display: flex;
+    margin-top: 1em;
+    height: 5%;
+   
+
+}
+
+.data{
+
+    display: flex;
+}
+
+.details{
+
+        width: 50%;
+}
+
+.address{
+ width: 50%;
+}
+
+.arrow{
+
+    width: 15px; 
+    height: 15px;
+    margin-left: 7em;
+}
+
+.UK{
+    width: 19em;
+    align-content: initial;
+    height: 2em;
+}
+
+.check{
+    width: 10px; 
+    height: 10px;
+    margin-bottom: 1em;
+}
+
+.info{
+
+    width: 19em;
+ 
+    height: 2em;
+
+}
+
+.completo{
+
+    height: 750px;
+}
+
+.country{
+
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+
+.post{
+
+    height: 1.3em;
+    width: 8em;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    
+  
+  
+  
+  }
